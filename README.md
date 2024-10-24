@@ -7,7 +7,7 @@ I’m particularly interested in frontend development because it blends design a
 ## 🌱 What I’ve Learned
 - **🖥️ HTML, CSS**
 - **💻 JavaScript, C**
-- **⚛️ React**
+- **⚛️ React, Firebase**
 - **🛠️ Node.js, Express**
 
 ## 🎯 Currently Learning Full-Stack Development
@@ -17,7 +17,7 @@ I’m focusing on integrating frontend and backend technologies to build dynamic
 I’m eager to collaborate on creative and functional projects where I can leverage my skills in both frontend and backend development.
 
 ## 📫 How to Reach Me
-[Your contact info]
+[bindudhaduk@gmail.com.com](mailto:Email)
 
 ## ⚡ Fun Facts
 - **📚 I love reading historical books for both enjoyment and knowledge.**
