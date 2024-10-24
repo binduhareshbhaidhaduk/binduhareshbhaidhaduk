@@ -17,7 +17,7 @@ I’m focusing on integrating frontend and backend technologies to build dynamic
 I’m eager to collaborate on creative and functional projects where I can leverage my skills in both frontend and backend development.
 
 ## 📫 How to Reach Me
-[bindudhaduk@gmail.com.com](mailto:Email)
+[Email](mailto:bindudhaduk@gmail.com)
 
 ## ⚡ Fun Facts
 - **📚 I love reading historical books for both enjoyment and knowledge.**
